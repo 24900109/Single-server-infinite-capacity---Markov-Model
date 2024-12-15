@@ -1,4 +1,12 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
+Ex.No: 4
+
+Date :
+
+Name : REVATHI.S
+
+Register Number : 24900026
+
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
@@ -19,13 +27,24 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![image](https://github.com/user-attachments/assets/c744307e-d49c-4a59-a1e4-00927ea7923b)
+
 
 
  
 ## Program
+Developed By : REVATHI.S
+
+Register number: 24900026
+
+
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+![image](https://github.com/user-attachments/assets/0d5e1ac6-f01e-489e-b169-91af11e639c8)
+
 
 ## Result :
+![image](https://github.com/user-attachments/assets/bb4e384f-148d-4381-bcb3-9d5a8a6dc239)
+
 
